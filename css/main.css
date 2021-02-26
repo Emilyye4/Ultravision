@@ -192,6 +192,7 @@ border-radius: 15px;
 border: solid 4px;
 color: #ffffff;
 font-size: 20px;
+text-align: center;
 }
 
 .Paraff2{
@@ -220,6 +221,12 @@ text-align: left;
 width: 745px;
 height: 576px;
 mix-blend-mode: darken;
+}
+
+.grille{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-gap: 20px;
 }
 
 .footer {
