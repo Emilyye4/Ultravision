@@ -229,8 +229,14 @@ grid-template-columns: repeat(4, 1fr);
 grid-gap: 20px;
 }
 
-.footer {
+.TITREFOOTER{
 color: #ffffff;
+font-size: 40px;
+text-align: center;
+}
+
+.footer{
+  background-color: #231F20;
 }
 
 h4 {
